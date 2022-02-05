@@ -30,22 +30,147 @@ At the beginning of the term I will circulate a list of topics suitable for repo
 Oral Report Topics
 ------------------
 
-| SES # | TOPICS |
-| --- | --- |
-| 4 | Courtly love in the Middle Ages; Eleanor of Aquitaine and her daughter Marie de Champagne |
-| 5 | Origins and versions of the legend of King Arthur and the Knights of the Round Table |
-| 6 | The picaro and picaresque literature in relationship to _Don Quixote_ |
-| 7 | The _Hidalgo_ in the class system of Renaissance Spain; The concept of "Clean Blood;" and the place of Jews and Arabs in the Spanish historical background to _Don Quixote_ |
-| 8 | Jonathan Swift's politics; Whigs and Tories in early 18th century Britain and Ireland; Jacobitism |
-| 9 | Lycurgus and ancient Sparta as described by Xenophon and Plutarch |
-| 10 | William Godwin and Mary Wollstonecraft (Mary Shelley's parents); Lord Byron, Percy Shelley, and their circle, especially 1816–1818 |
-| 11 | The search for the Northwest Passage |
-| 12 | Humphry Davy; The study of chemistry and the life sciences at the start of the 19th century |
-| 14 | King Leopold of Belgium and the Congo; The Casement Report |
-| 15 | The Scramble for Africa; The Berlin Conference of 1884 |
-| 19 | Leslie Stephen; the Bloomsbury |
-| 20 | Tennyson's poem "The Charge of the Light Brigade" and the occasion for which it was written |
-| 21 | William Cowper's poem "The Castaway" and its use in _To the Lighthouse_ 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Courtly love in the Middle Ages; Eleanor of Aquitaine and her daughter Marie de Champagne
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Origins and versions of the legend of King Arthur and the Knights of the Round Table
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The picaro and picaresque literature in relationship to _Don Quixote_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The _Hidalgo_ in the class system of Renaissance Spain; The concept of "Clean Blood;" and the place of Jews and Arabs in the Spanish historical background to _Don Quixote_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Jonathan Swift's politics; Whigs and Tories in early 18th century Britain and Ireland; Jacobitism
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Lycurgus and ancient Sparta as described by Xenophon and Plutarch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+William Godwin and Mary Wollstonecraft (Mary Shelley's parents); Lord Byron, Percy Shelley, and their circle, especially 1816–1818
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The search for the Northwest Passage
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Humphry Davy; The study of chemistry and the life sciences at the start of the 19th century
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+King Leopold of Belgium and the Congo; The Casement Report
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+The Scramble for Africa; The Berlin Conference of 1884
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Leslie Stephen; the Bloomsbury
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Tennyson's poem "The Charge of the Light Brigade" and the occasion for which it was written
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+William Cowper's poem "The Castaway" and its use in _To the Lighthouse_
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 I will grade you both on the accuracy and usefulness of the information you present as well as on your presentation style, which should not be too slangy and informal. I will be looking to see if you have prioritized the information you found so as to present what is most pertinent to our concerns in the class.
 

@@ -21,26 +21,207 @@ Books on order (in order in which they will be used):
 
 The following schedule is meant to suggest the pace at which you should divide up your reading. In class, we will go slowly over some parts and quickly over others; we will also move readings up or push them back as seems necessary.
 
-| SES # | TOPICS / READINGS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | \[Odyssey\] excerpts from Book 1; Books 9–12 |
-| 3 | \[Odyssey\] excerpts from Book 1; Books 9-12 (continued) |
-| 4 | \[Arthurian Romances\] _"_The Knight of the Cart" |
-| 5 | \[Arthurian Romances\] "The Knight of the Cart" (continued) |
-| 6 | \[Don Quixote\] Prologue and Chapters 1–5, 7–22, and 52 (i.e., pp. 11–51, 58–186, and 467–79) |
-| 7 | \[Don Quixote\] |
-| 8 | \[Gulliver's Travels\] Parts 1 and 4, "A Voyage to Lilliput" and "A Voyage to the Houyhnhnms" |
-| 9 | \[Gulliver's Travels\] (continued) |
-| 10 | \[Frankenstein\] |
-| 11 | \[Frankenstein\] (continued) |
-| 12 | \[Frankenstein\] (continued) |
-| 13 | \[Frankenstein\] (continued) |
-| 14 | \[Heart of Darkness\] |
-| 15 | \[Heart of Darkness\] (continued) |
-| 16 | \[Heart of Darkness\] (continued) |
-| 17 | \[Heart of Darkness\] (continued) |
-| 18 | \[To the Lighthouse\] |
-| 19 | \[To the Lighthouse\] (continued) |
-| 20 | \[To the Lighthouse\] (continued) |
-| 21 | \[To the Lighthouse\] (continued)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS / READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+\[Odyssey\] excerpts from Book 1; Books 9–12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+\[Odyssey\] excerpts from Book 1; Books 9-12 (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+\[Arthurian Romances\] _"_The Knight of the Cart"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+\[Arthurian Romances\] "The Knight of the Cart" (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+\[Don Quixote\] Prologue and Chapters 1–5, 7–22, and 52 (i.e., pp. 11–51, 58–186, and 467–79)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+\[Don Quixote\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+\[Gulliver's Travels\] Parts 1 and 4, "A Voyage to Lilliput" and "A Voyage to the Houyhnhnms"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+\[Gulliver's Travels\] (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+\[Frankenstein\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+\[Frankenstein\] (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+\[Frankenstein\] (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+\[Frankenstein\] (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+\[Heart of Darkness\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+\[Heart of Darkness\] (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+\[Heart of Darkness\] (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+\[Heart of Darkness\] (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+\[To the Lighthouse\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+\[To the Lighthouse\] (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+\[To the Lighthouse\] (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+\[To the Lighthouse\] (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
